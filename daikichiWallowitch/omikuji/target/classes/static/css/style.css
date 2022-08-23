@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.formBox {
+	width: 300px;
+}
+
+.buttonSubmit {
+	background-color: dodgerblue;
+	color: white;
+	margin-left: 200px;
+}
+
+.omikujiBox {
+	color: black;
+	border: 2px solid black;
+	background-color: #80bfff;
+	width: 300px;
+	padding: 20px;
+}
+
+.goBack {
+	margin-left: 110px;
+}
