@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.formBox {
+	width: 400px;
+	margin: 40px;
+}
+
+.column {
+	display: flex;
+}
+
+.header {
+	display: flex;
+	padding: 20px;
+	justify-content: space-between;
+}
+
+.bookForm {
+	width: 600px;
+	border: solid grey;
+	padding: 30px;
+}
+
+.left {
+	margin-left: 450px;
+}
+
+.thoughts {
+	font-style: italic;
+}
